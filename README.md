@@ -4,7 +4,7 @@
 
 Website toDo, lista de atividades.
 
-A prátitica envolve os conhecimentos adquirido no Chapter I.
+A prática envolve os conhecimentos adquirido no Chapter I.
 
 * Manipulação de estados com **useState**
 * Manipulação e uso de interface 
